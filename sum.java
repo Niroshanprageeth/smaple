@@ -7,5 +7,10 @@ class sum{
         int sum=a+b;
 
         System.out.println("Sum is:"+sum);
+        //this is from local machine 1
+        // this is a summation here
+        // currently working here
+        //task 1
+        //task2
     }
 }
